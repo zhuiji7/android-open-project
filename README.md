@@ -2168,6 +2168,11 @@ demo地址：[apk地址](https://github.com/lfkdsk/JustWeTools/blob/master/demo/
 效果图：![vertextview](https://github.com/lfkdsk/JustWeTools/blob/master/picture/VerTextView.png)  
 demo地址：[apk地址](https://github.com/lfkdsk/JustWeTools/blob/master/demo/JustWeTools.apk)  
 
+1. FileDownloader  
+Android下载框架，支持多用户、多任务、断点续传、实时监听等  
+项目地址：https://github.com/zhuiji7/FileDownloader  
+![vertextview](https://github.com/zhuiji7/FileDownloader/blob/master/demo.gif)
+
 ## 第三部分 优秀项目
 主要介绍那些 Android 还不错的完整项目，目前包含的项目主要依据是项目有意思或项目分层规范比较好。  
 
